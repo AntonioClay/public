@@ -29,4 +29,4 @@ Table of Contents
 
 7. Conclusion
 
-[Go to Introduction](./tutorial/introduction.md)
+[Go to Introduction](./introduction.md)
