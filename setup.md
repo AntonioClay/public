@@ -8,4 +8,4 @@
 
 
 
-[Next Section](./section2.md)
+[Next Section](writing.md)
