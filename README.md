@@ -28,3 +28,5 @@ Table of Contents
 6. Publishing with GitHub Pages
 
 7. Conclusion
+
+[Go to Introduction](./tutorial/introduction.md)
